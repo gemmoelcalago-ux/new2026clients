@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 65b8b2046a2d3e77b3d0333217532882b703fde6 Claude <claude@anthropic.com> 1778449382 +0000	commit (initial): Initial commit: Insurance Payment Tracker dashboard
+65b8b2046a2d3e77b3d0333217532882b703fde6 41a945488f09b28910e6a8cdd0128e7d5d9657b7 Claude <claude@anthropic.com> 1778449789 +0000	commit: Update: embed all 22 client records with full data + live Sheet sync
